@@ -68,7 +68,7 @@ autoclean = []
 confirmer = {}
 
 # UI Images
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/1951b91d265c94bb90d2f-70bea2d338ca641e75.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/bcc94d4e09b0097fe4ffd-c0cb1107270d1d0353.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/9cevdg.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/i493lf.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/i0qmgf.jpg"
