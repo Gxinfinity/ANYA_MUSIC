@@ -1,18 +1,23 @@
 # Netscape HTTP Cookie File
 # http://curl.haxx.se/rfc/cookie_spec.html
 # This is a generated file!  Do not edit.
-
-.youtube.com	TRUE	/	TRUE	1758270721	VISITOR_INFO1_LIVE	mmhYWeZQYgE
-.youtube.com	TRUE	/	TRUE	1758270721	VISITOR_PRIVACY_METADATA	CgJJThIEGgAgQQ%3D%3D
-.youtube.com	TRUE	/	TRUE	1758270721	__Secure-ROLLOUT_TOKEN	CPv46fSrgK3xFxCGleGS5Z-MAxjtovqS5Z-MAw%3D%3D
-.youtube.com	TRUE	/	TRUE	1787533377	PREF	tz=Asia.Calcutta&f7=100&f6=40000000
-.youtube.com	TRUE	/	TRUE	1752975098	GPS	1
-.youtube.com	TRUE	/	TRUE	1784509359	__Secure-1PSIDTS	sidts-CjEB5H03PwGl1ahpITcGIJBmWW_8W7MkHF332EJMax5_1Ry9BZZ68dWP2r_pCs1SxgjtEAA
-.youtube.com	TRUE	/	TRUE	1784509359	__Secure-3PSIDTS	sidts-CjEB5H03PwGl1ahpITcGIJBmWW_8W7MkHF332EJMax5_1Ry9BZZ68dWP2r_pCs1SxgjtEAA
-.youtube.com	TRUE	/	FALSE	1787533359	HSID	AKLg5Qf7ZzFso9OIr
-.youtube.com	TRUE	/	TRUE	1787533359	SSID	AIqepaS94zZ1RdffG
-.youtube.com	TRUE	/	FALSE	1787533359	APISID	XCENaXWhZvHHbF7P/ABluhtC-5CxSyeAuM
-.youtube.com	TRUE	/	TRUE	1787533359	SAPISID	9Q7v4UzqIfhKfKu9/Aj-K7n_HLgJ8h177I
+.youtube.com    TRUE    /       FALSE   1789682048      HSID    AeLvuW6ElHnfvYnYM
+.youtube.com    TRUE    /       TRUE    1789682048      SSID    AZaBWBmPCdMyhs42t
+.youtube.com    TRUE    /       FALSE   1789682048      APISID  55qqfclnxfA4Xm6D/A2BcZ89cseuyllLAN
+.youtube.com    TRUE    /       TRUE    1789682048      SAPISID VczDQ6kw3Tt-RAfV/AQSMJ7ET07KRpzV4S
+.youtube.com    TRUE    /       TRUE    1789682048      __Secure-1PAPISID       VczDQ6kw3Tt-RAfV/AQSMJ7ET07KRpzV4S
+.youtube.com    TRUE    /       TRUE    1789682048      __Secure-3PAPISID       VczDQ6kw3Tt-RAfV/AQSMJ7ET07KRpzV4S
+.youtube.com    TRUE    /       TRUE    1786658043      __Secure-1PSIDTS        sidts-CjUB5H03P8kUzST4wItBQua9H0kzxMdpp-kOAbpyVksJwwMVQN2eHk2b36GG5IVe5x_207pysBAA
+.youtube.com    TRUE    /       TRUE    1786658043      __Secure-3PSIDTS        sidts-CjUB5H03P8kUzST4wItBQua9H0kzxMdpp-kOAbpyVksJwwMVQN2eHk2b36GG5IVe5x_207pysBAA
+.youtube.com    TRUE    /       TRUE    1789682046      LOGIN_INFO      AFmmF2swRQIhAOAvD2liwTBwM0SZZ9Llx0s4qJflv1FGT7OKBkGo5zgWAiBfIiAdvdkNBvfT20PDwMVXAGCRAQ17qSD61W5v-iFEqg:QUQ3MjNmd05NekFTSVFwcVY5ZEhkWHY2RWEtdzVTRkt4QkRnSTdncXlNN3V3NkVSS1pLWEltWUtSalRIX0pKQ1NDYUZyTUVsVjk3X1R3b1FuWG13VlpWdlpyYjEtODBhd0dEbTlwYnUxM0RkbmJ1cTdpdXZtQWVHbVQ1U3BIRWJNTDNzekE4cG9SUUwwUjZNb3pVMS1pbkZyeUNzQmdHTmp3
+.youtube.com    TRUE    /       FALSE   1789682048      SID     g.a0000AhAuPREar-XCG_s6gX-UKThP-HT0-8NGHy5DY0OGkQwMhvqZeRXLx9kv3TMStxI4pgIqgACgYKATsSARcSFQHGX2MizOYRfvX3wMHVbduO3-BYfBoVAUF8yKrsNLWgLYryY88VPN6fWQf80076
+.youtube.com    TRUE    /       TRUE    1789682048      __Secure-1PSID  g.a0000AhAuPREar-XCG_s6gX-UKThP-HT0-8NGHy5DY0OGkQwMhvqWU87a3bqKekgAr9abFaAygACgYKAXcSARcSFQHGX2MiBTKI4Cm3Io6y4VBPPHEPmRoVAUF8yKq5VbxkiyRmLrM1UaalBF7X0076
+.youtube.com    TRUE    /       TRUE    1789682048      __Secure-3PSID  g.a0000AhAuPREar-XCG_s6gX-UKThP-HT0-8NGHy5DY0OGkQwMhvqa3GnBQZ-zpDVFlmh2MN3mwACgYKATQSARcSFQHGX2MiVNhcane7IdOfrysXT573CRoVAUF8yKosIfm1LHZS8PnCLBxH4AF00076
+.youtube.com    TRUE    /       TRUE    1790248542      PREF    tz=Asia.Calcutta&f7=100
+.youtube.com    TRUE    /       TRUE    1755689214      CONSISTENCY     AKreu9sGW90k-Jgsn470JWh4o83coPoibBhEEAb0E-mwYfJ3EWKT4Juji3Ud7MD1FeIbOb-DgXd8neECRbjP2kOMXO0mW1QJ1dHsnxk4WxXAEnVMw4PN1ANLbqc
+.youtube.com    TRUE    /       FALSE   1787224650      SIDCC   AKEyXzWShfPzQ95IPHZZJjLkRQCoCgJzfCSTKyYBrK_FjBjhZFp3wiPGFNM8d0DgnVlHXnMpqQ
+.youtube.com    TRUE    /       TRUE    1787224650      __Secure-1PSIDCC        AKEyXzWen1E-O4VDYP176OGsaUirJiwHcOV11VLHXkJVSSE10FfeEvW6wmjC2ZR6XbnjvQKnzA
+.youtube.com    TRUE    /       TRUE    1787224650      __Secure-3PSIDCC        AKEyXzWInJ1xCmr3SW20TltIQmb3K--p57t4XuDzaQGjOorHIo5TMmDw1k_gJAvhLWYa2OGM.youtube.com	TRUE	/	TRUE	1787533359	SAPISID	9Q7v4UzqIfhKfKu9/Aj-K7n_HLgJ8h177I
 .youtube.com	TRUE	/	TRUE	1787533359	__Secure-1PAPISID	9Q7v4UzqIfhKfKu9/Aj-K7n_HLgJ8h177I
 .youtube.com	TRUE	/	TRUE	1787533359	__Secure-3PAPISID	9Q7v4UzqIfhKfKu9/Aj-K7n_HLgJ8h177I
 .youtube.com	TRUE	/	FALSE	1787533359	SID	g.a000zQiXCm-XjQmjBAPFtEbNBG_idvMni_joZfSR7D-Ppz7kt-7hK6qe7Kp2mVKBRivnv__mVAACgYKAYMSARISFQHGX2MitZ0_oAPDt5aX8Hu_dFvlPRoVAUF8yKqb-wEX7M1yJ_FEr7zfg2Hi0076
