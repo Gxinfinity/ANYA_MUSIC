@@ -6,24 +6,25 @@ from pyrogram import filters
 load_dotenv()
 
 # Telegram API (my.telegram.org)
-API_ID = int(getenv("API_ID", "20977551"))
-API_HASH = getenv("API_HASH", "c5c11856866072c7b12a4e32e6a0a0f9")
+API_ID = int(getenv("API_ID", "26950458"))
+API_HASH = getenv("API_HASH", "d818b8d530e4a9b209509815ab1b9c7c")
 
 # Bot Token (@BotFather)
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 # Owner and Bot Info
-OWNER_USERNAME = getenv("OWNER_USERNAME", "LvsLight_01")
-BOT_USERNAME = getenv("BOT_USERNAME", "CuddleBuddhuu_Bot")
-BOT_NAME = getenv("BOT_NAME", "Cuddlexbuddhugx")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "
+Roohi_Queen_Bot")
+BOT_USERNAME = getenv("BOT_USERNAME", "Roohi_Queen_Bot")
+BOT_NAME = getenv("BOT_NAME", "Roohi_Queen_Bot")
 
 # Database
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://knight4563:knight4563@cluster0.a5br0se.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 # Limits & IDs
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
-LOGGER_ID = int(getenv("LOGGER_ID", "-1003007879226"))
-OWNER_ID = int(getenv("OWNER_ID", "7760451571"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002869205475"))
+OWNER_ID = int(getenv("OWNER_ID", "8442486781"))
 
 # Heroku (optional)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
@@ -36,7 +37,7 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Support Links
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/dark_x_knight_musiczz_support/112")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+CVC2g8SGZG40MzY1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/cuties_logs")
 
 # Auto Leave
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
